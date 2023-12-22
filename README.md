@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theproteam03
+- 👋 Hi, I’m Sagar Rathod
 - 👀 I’m interested in ... Problem Solving
 - 🌱 I’m currently learning ... React JS
 - 📫 How to reach me ... theproteam03@gmail.com
