@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Sagar Rathod
-- 👀 I’m interested in ... Problem Solving
-- 🌱 I’m currently learning ... React JS
-- 📫 How to reach me ... theproteam03@gmail.com
--
--
 <h1 align="center">Hi 👋, I'm Akash Rajendra Rathod</h1>
+- 📫 How to reach me ... theproteam03@gmail.com
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-akash03&label=Profile%20views&color=0e75b6&style=flat" alt="ak-akash03" /> </p>
