@@ -19,7 +19,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Akash Rajendra Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
