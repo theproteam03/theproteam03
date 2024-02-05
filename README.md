@@ -38,11 +38,9 @@ ___
    
    💬 Ask me about **Web Development** 💬
    
-   📫 How to reach me ... theproteam03@gmail.com 📫
+   🔭 I’m currently working on **Assignment.com** 🔭
    
-   📫 How to reach me **aakashrathodyt2020@gmail.com** 📫
-   
-   🔭 I’m currently working on **Personal PortFolio Website** 🔭
+   📫 How to reach me ...... theproteam03@gmail.com 📫
    
    🌱 I’m currently learning **React Js , Express Js , Node Js** 🌱
    
