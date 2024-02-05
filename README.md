@@ -25,9 +25,10 @@
 
 ___
 
+- 👨‍💻 My Second [Github](https://github.com/ak-akash03)
 - 💬 Ask me about **Web Development**
-- 📝 Pernal Portfolio Website  [Here](https://ak-akash03.github.io/personal-portfolio/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link)
+- 📝 Personal Portfolio Website  [Here](https://ak-akash03.github.io/personal-portfolio/)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ak-akash03)
 - 📫 How to reach me ... theproteam03@gmail.com
 - 📫 How to reach me **aakashrathodyt2020@gmail.com**
