@@ -12,11 +12,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ak-akash03&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/ak-akash03?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=theproteam03&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/theproteam03?tab=followers"><img src="https://img.shields.io/github/followers/theproteam03?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
     Hey,👋 I'm Akash Rathod
-<h3 align="center">A passionate Mern developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
   </h1>
 </div>
 <div align="center">
