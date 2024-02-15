@@ -26,25 +26,5 @@
 ___
 
 
-<div id="header" align="center">
-  
-   👨‍💻 My Second [Github](https://github.com/ak-akash03) 👨‍💻
-   
-   📝 Personal Portfolio Website  [Here](https://ak-akash03.github.io/personal-portfolio/) 📝
-   
-   📄 Know about my experiences [Resume](https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link) 📄
-   
-   👨‍💻 All of my projects are available at [Github](https://github.com/ak-akash03)👨‍💻
-   
-   💬 Ask me about **Web Development** 💬
-   
-   🔭 I’m currently working on **Assignment.com** 🔭
-   
-   📫 How to reach me ...... theproteam03@gmail.com 📫
-   
-   🌱 I’m currently learning **React Js , Express Js , Node Js** 🌱
-   
-  
-</div>
 
 
